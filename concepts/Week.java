@@ -1,4 +1,4 @@
-package learn;
+package concepts;
 
 public class Week {
     Day[] Week(){

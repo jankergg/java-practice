@@ -1,4 +1,4 @@
-package learn;
+package concepts;
 
 public class Day {
     String Day(int day){

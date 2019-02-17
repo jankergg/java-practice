@@ -1,13 +1,7 @@
-package learn;
+package concepts;
 
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.Scanner;
 
 import static java.lang.System.out;
 
